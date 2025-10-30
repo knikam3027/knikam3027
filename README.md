@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shrikant Nikam  
 ### 💼 Senior Full-Stack Developer | React.js | Next.js | Node.js | AWS | GCP | Docker  
 
-I’m a results-driven **Senior Full-Stack Developer** with 8+ years of experience (6+ in MERN).  
+I’m a results-driven **Senior Full-Stack Developer** with 6+ years of experience .  
 I specialize in **scalable web applications**, **microservices**, and **cloud-native deployments** across multiple domains like **Insurance, Healthcare, E-commerce, Logistics, and Analytics**.
 
 ---
@@ -95,7 +95,7 @@ I specialize in **scalable web applications**, **microservices**, and **cloud-na
 
 ## 📫 Contact
 
-📧 **Email:** [knikamk3027@gmail.com](mailto:knikamk3027@gmail.com)  
+📧 **Email:** [knikam3027@gmail.com](mailto:knikam3027@gmail.com)  
 📍 **Location:** Pune, India  
 
 ---
