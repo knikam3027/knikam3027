@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shrikant Nikam  
+# 👋 Hi, I'm   Nikam  
 ### 💼 Senior Full-Stack Developer | React.js | Next.js | Node.js | AWS | GCP | Docker  
 
 I’m a results-driven **Senior Full-Stack Developer** with 6+ years of experience .  
